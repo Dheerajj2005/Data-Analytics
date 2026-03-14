@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+env/
+.idea
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Visual Studio Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Data/Output
+*.csv
+*.xlsx
+*.db
+
+# Ignore any local secrets that may get created
+.env
+*.env
+
+# OS files
+Thumbs.db
+
+# Dependencies
+pip-wheel-metadata/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Misc
+*.cache
